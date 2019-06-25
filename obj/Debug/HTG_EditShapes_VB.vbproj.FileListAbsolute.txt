@@ -1,0 +1,16 @@
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\bin\Debug\HTG_EditShapes_VB.exe.config
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\bin\Debug\HTG_EditShapes_VB.exe
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\bin\Debug\HTG_EditShapes_VB.pdb
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\bin\Debug\HTG_EditShapes_VB.xml
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\bin\Debug\EditShape.dll
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\bin\Debug\EditShape.pdb
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\bin\Debug\EditShape.xml
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\obj\Debug\HTG_EditShapes_VB.vbprojAssemblyReference.cache
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\obj\Debug\HTG_EditShapes_VB.Form1.resources
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\obj\Debug\HTG_EditShapes_VB.Resources.resources
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\obj\Debug\HTG_EditShapes_VB.vbproj.GenerateResource.cache
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\obj\Debug\HTG_EditShapes_VB.vbproj.CoreCompileInputs.cache
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\obj\Debug\HTG_EditShapes_VB.vbproj.CopyComplete
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\obj\Debug\HTG_EditShapes_VB.exe
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\obj\Debug\HTG_EditShapes_VB.xml
+C:\Users\Ockert\Desktop\HTG_EditShapes_VB\HTG_EditShapes_VB\obj\Debug\HTG_EditShapes_VB.pdb
